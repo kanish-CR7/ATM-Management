@@ -1,1 +1,1 @@
-A simple money withdrawl n=and deposit slong with balance chek is executed in this peogram 
+A simple money withdrawl and deposit along with balance check is executed in this peogram 
